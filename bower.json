@@ -1,0 +1,22 @@
+{
+  "name": "creative-studio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Vlad6555 <Vlad6555@ukr.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/VladZelenko/creative-studio-minimal",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
